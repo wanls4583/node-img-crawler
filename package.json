@@ -1,7 +1,7 @@
 {
   "name": "node-img-crawler",
   "version": "1.0.0",
-  "description": "一个简单的图片爬取模块，基于nodejs",
+  "description": "一个简单的图片爬取模块，可以批量搜索本地文件中的图片链接并下载，基于nodejs",
   "main": "index.js",
   "repository": {
     "type": "git",
