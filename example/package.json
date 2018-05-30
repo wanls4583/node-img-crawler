@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "demo": "node example.js"
+  }
+}

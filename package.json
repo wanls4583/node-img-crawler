@@ -1,0 +1,26 @@
+{
+  "name": "node-img-crawler",
+  "version": "1.0.0",
+  "description": "一个简单的图片爬取模块，基于nodejs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanls4583/node-img-crawler.git"
+  },
+  "keywords": [
+    "img",
+    "crawl",
+    "crawler",
+    "node",
+    "img-crawler"
+  ],
+  "author": "lisong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanls4583/node-img-crawler/issues"
+  },
+  "homepage": "https://github.com/wanls4583/node-img-crawler#readme",
+  "devDependencies": {
+    "request": "^2.87.0"
+  }
+}
